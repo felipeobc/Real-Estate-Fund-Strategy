@@ -5,8 +5,7 @@ Montar uma estrategia de fundo imobiliários para investimentos
 
 Apenas troque com os paramentros do objeto Estraegia: 
 
-# estrategia = Estrategia(coatacao_atual_minima=50.0, dividiend_yield_minimo=5, p_vp_minimo=0.70, valor_mercado_minimo=200000000,
-                        liquidez_minimo=50000, qt_minimo_imoveis=5, maximo_vacancia_media=10)
+# estrategia = Estrategia(coatacao_atual_minima=50.0, dividiend_yield_minimo=5, p_vp_minimo=0.70, valor_mercado_minimo=200000000, liquidez_minimo=50000, qt_minimo_imoveis=5, maximo_vacancia_media=10)
 
 ╒════╤═══════════╤════════════════════╤═════════════════╤══════════════════╕
 │    │ Condigo   │ Segmneto           │ Cotacao Atual   │ Dividend Yield   │
